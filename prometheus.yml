@@ -1,0 +1,6 @@
+
+## 🚀 Build & Run (Local)
+
+```bash
+docker build -t iot-app .
+docker run -p 5000:5000 iot-app
